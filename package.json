@@ -2,26 +2,26 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "HomeWork #8",
-  "homepage": "https://oleh-kliapko.github.io/goit-js-hw-08",
+  "homepage": "https://Konoplya156.github.io/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oleh-Kliapko/goit-js-hw-08.git"
+    "url": "git+https://github.com/Konoplya156/goit-js-hw-08.git"
   },
   "keywords": [],
-  "author": "Oleh Kliapko <goldclub1977@gmail.com>",
+  "author": "Maksim Karpiuk <konoplya.mk@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Oleh-Kliapko/goit-js-hw-08/issues"
+    "url": "https://github.com/Konoplya156/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
-    "simplelightbox": "^2.13.0"
+    "simplelightbox": "^2.10.4"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
